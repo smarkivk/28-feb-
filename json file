@@ -1,0 +1,31 @@
+[ 
+		
+		{
+			"questionText": "What is 1 +2 ?",
+			"answerOptions": [
+				{ "answerText": 1, "isCorrect": false },
+				{ "answerText": 3, "isCorrect": true },
+				{ "answerText": 2, "isCorrect": false },
+				{ "answerText": 4, "isCorrect": false }
+			]
+		},
+		{
+			"questionText": "what is capital of india ?",
+			"answerOptions": [
+				{ "answerText": "New Delhi", "isCorrect": true },
+				{ "answerText": "Hyderabad", "isCorrect": false },
+				{ "answerText": "Chennai", "isCorrect": false },
+				{ "answerText": "Pune", "isCorrect": false }
+			]
+		},
+		{
+			"questionText": "when did India got independence ?",
+			"answerOptions": [
+				{ "answerText": 1947, "isCorrect": true },
+				{ "answerText": 1850, "isCorrect": false },
+				{ "answerText": 1957, "isCorrect": false },
+				{ "answerText": 1950, "isCorrect": false }
+			]
+		}
+		
+	]
